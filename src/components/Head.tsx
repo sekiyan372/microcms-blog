@@ -6,7 +6,8 @@ type Props = {
 }
 
 const BASE_TITLE = 'Micro CMS Blog'
-const DESCRIPTION = '4プロジェクト合同 React 勉強会の最終課題で作成したブログです。'
+const DESCRIPTION =
+  '4プロジェクト合同 React 勉強会の最終課題で作成したブログです。'
 
 const Head: VFC<Props> = (props) => {
   const title = props.title ? `${props.title} | ${BASE_TITLE}` : BASE_TITLE
