@@ -2,20 +2,7 @@ import type { NextPage } from 'next'
 import Link from 'next/link'
 import { client } from '~/libs/client'
 import Head from '~/components/Head'
-
-type Article = {
-  id: string
-  createdAt: string
-  updatedAt: string
-  publishedAt: string
-  revisedAt: string
-  title: string
-  body: string
-}
-
-type Contents = {
-  contents: Article[]
-}
+import { Article, Contents } from '~/types'
 
 type Props = {
   articles: Article[]
