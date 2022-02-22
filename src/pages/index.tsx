@@ -1,4 +1,5 @@
 import type { NextPage } from 'next'
+import Link from 'next/link'
 import styled from 'styled-components'
 import Head from '~/components/Head'
 
@@ -120,6 +121,8 @@ const Home: NextPage = () => {
             </p>
           </Card>
         </Grid>
+
+        <Link href="/blog">Blog Index Page</Link>
       </Section>
     </>
   )
