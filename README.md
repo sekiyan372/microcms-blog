@@ -1,6 +1,6 @@
 # 4プロジェクト合同React勉強会 作成課題
 
-| | |
+| 構成 | 使用技術・サービス |
 | --- | --- |
 | lang | TypeScript |
 |framework | Next.js |
