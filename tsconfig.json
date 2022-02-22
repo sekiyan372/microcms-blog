@@ -3,7 +3,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "src/libs/client.js"  ],
   "exclude": ["node_modules"],
   "compilerOptions": {
     "target": "esnext",
