@@ -5,7 +5,7 @@ type Props = {
   title?: string
 }
 
-const BASE_TITLE = 'Micro CMS Blog'
+const BASE_TITLE = 'microCMS Blog'
 const DESCRIPTION =
   '4プロジェクト合同 React 勉強会の最終課題で作成したブログです。'
 
