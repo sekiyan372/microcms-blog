@@ -1,14 +1,14 @@
-# 4プロジェクト合同React勉強会 作成課題
+# 4 プロジェクト合同 React 勉強会 作成課題
 
-| 構成 | 使用技術・サービス |
-| --- | --- |
-| lang | TypeScript |
-|framework | Next.js |
-| style | styled-components |
-| api | Micro CMS |
-| linter | ESLint |
-| formater | prettier |
-| hosting | Vercel |
+| 構成      | 使用技術・サービス |
+| --------- | ------------------ |
+| lang      | TypeScript         |
+| framework | Next.js            |
+| style     | styled-components  |
+| api       | microCMS           |
+| linter    | ESLint             |
+| formater  | prettier           |
+| hosting   | Vercel             |
 
 ## このリポジトリの役割
 
@@ -16,7 +16,7 @@
 
 ## 推奨実行環境
 
-- node: v16系
+- node: v16 系
 
 ## 実行コマンド
 
